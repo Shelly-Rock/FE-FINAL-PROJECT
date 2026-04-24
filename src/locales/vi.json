@@ -1,0 +1,47 @@
+{
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Lỗi",
+    "success": "Thành công",
+    "cancel": "Hủy",
+    "save": "Lưu",
+    "edit": "Chỉnh sửa",
+    "delete": "Xóa",
+    "create": "Tạo",
+    "search": "Tìm kiếm",
+    "filter": "Lọc",
+    "export": "Xuất",
+    "import": "Nhập",
+    "back": "Quay lại",
+    "next": "Tiếp theo",
+    "previous": "Trước đó",
+    "submit": "Gửi",
+    "confirm": "Xác nhận",
+    "yes": "Có",
+    "no": "Không"
+  },
+  "navigation": {
+    "dashboard": "Trang chủ",
+    "profile": "Hồ sơ",
+    "settings": "Cài đặt",
+    "logout": "Đăng xuất"
+  },
+  "auth": {
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "forgotPassword": "Quên mật khẩu?",
+    "rememberMe": "Ghi nhớ đăng nhập",
+    "loginSuccess": "Đăng nhập thành công",
+    "loginError": "Đăng nhập thất bại",
+    "invalidCredentials": "Email hoặc mật khẩu không hợp lệ"
+  },
+  "errors": {
+    "networkError": "Lỗi mạng đã xảy ra",
+    "serverError": "Lỗi máy chủ đã xảy ra",
+    "notFound": "Không tìm thấy trang",
+    "unauthorized": "Truy cập không được phép",
+    "somethingWentWrong": "Đã xảy ra lỗi"
+  }
+}
